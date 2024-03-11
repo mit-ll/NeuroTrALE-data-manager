@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+    PackageName: NeuroTrALE-data-manager
+    PackageHomePage: https://github.com/mit-ll/NeuroTrALE-data-manager
+    PackageOriginator: MIT Lincoln Laboratory
+    PackageCopyrightText: 2024 Massachusetts Institute of Technology
+    PackageLicenseDeclared: BSD-2-Clause
