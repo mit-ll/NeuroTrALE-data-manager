@@ -1,0 +1,5 @@
+fastapi==0.92.0-1
+uvicorn==0.17.6-1
+aiofiles==23.1.0-1
+multipart==0.0.5-3
+tifffile==20230203-1

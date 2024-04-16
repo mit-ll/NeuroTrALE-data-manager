@@ -1,0 +1,18 @@
+[project]
+name = "neurotrale-precomputed-service"
+version = "1.0.0"
+description = "Precomputed service for imagery and annotations used by NeuroTrale"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE.txt"}
+dependencies = [
+   "fastapi",
+   "uvicorn",
+   "aiofiles",
+   "multipart",
+   "tifffile"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
